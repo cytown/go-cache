@@ -1,3 +1,3 @@
-module github.com/patrickmn/go-cache
+module github.com/cytown/go-cache
 
 go 1.19
